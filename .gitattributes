@@ -9,5 +9,5 @@
 
 # Binary files should be left untouched
 *.jar           binary
-*.java          linguist-detectable=false
+*.java          linguist-detectable=true
 
